@@ -27,7 +27,7 @@ The **To-Do List** app is a simple and intuitive task management tool that allow
 
 - **Img 1 - Add Events**
 
-![choose difficulty]()
+![choose difficulty](https://github.com/Rubin737/Todolist/blob/master/screenshort/img1.jpeg?raw=true)
 
 - **Img 2 - After Events added UI**
 
