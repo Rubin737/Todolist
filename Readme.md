@@ -27,11 +27,11 @@ The **To-Do List** app is a simple and intuitive task management tool that allow
 
 - **Img 1 - Add Events**
 
-![choose difficulty](screenshort\img2.jpeg)
+![choose difficulty]()
 
 - **Img 2 - After Events added UI**
 
-![game page](screenshort\img1.jpeg)
+![game page]([screenshort\img1.jpeg](https://github.com/Rubin737/Todolist/blob/master/screenshort/img1.jpeg?raw=true))
 
 
 
