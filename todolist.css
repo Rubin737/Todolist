@@ -1,0 +1,106 @@
+.todolist{
+    color: black;
+    font-size: 1.8rem;
+    font-family: Helvetica;
+    padding-left: 1rem;
+    font-weight: bold;
+    flex: 1;
+}
+.whole-1{
+    width: 750px;
+    margin-top:50px ;
+    margin-left: 300px;
+}
+.whole{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 0.5rem;
+    margin-bottom: 20px;
+}
+.add{
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: rgb(122, 212, 241);
+    color: black;
+    padding: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border: none;
+    width: 185px;
+}
+.button1{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.897);
+    background-color: rgb(243, 57, 57);
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: none;
+    width: 200px;
+    border-radius: 0.3rem;
+
+}
+.event1{
+    /* color: rgba(255, 255, 255, 0.767); */
+    color: rgba(0, 0, 0, 0.808);
+    font-size: 1.8rem;
+    font-family: "Poppins", system-ui;
+    padding-left: 1rem;
+    font-weight: bold;
+    /* margin-bottom: 0; */
+    
+    
+
+}
+.main{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        width: 600px;
+        border: none;
+        border-radius: 6px;
+        margin: 0;
+        margin-bottom: 9px;
+        padding-right: 10px;
+        background-color:rgb(143, 165, 165)
+
+        
+        
+   
+      
+}
+.reset{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(241, 222, 50);
+    padding: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border: none;
+    width: 185px;
+    
+}
+.instruc{
+    font-size:2rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0,0.7);
+    font-family: "Poppins", system-ui;
+    margin: 0;
+    
+}
+strong{
+    color: black;
+    font-size:2.3rem;
+}
+.button1:hover{
+    color: black;
+    background-color: rgb(223, 217, 217);
+}
+.add:hover,.reset:hover{
+    color: black;
+    background-color: rgb(223, 217, 217);
+}
